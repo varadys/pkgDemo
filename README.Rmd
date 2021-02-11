@@ -1,0 +1,18 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+
+# Insert package name
+
+
+## Installation
+
+
+## Overview
+
+## Example
+
+## References
