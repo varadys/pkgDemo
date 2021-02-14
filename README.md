@@ -23,7 +23,6 @@ devtools::install_github("Reed-Math241/pkgDemo")
 
 ## Example
 
-test
 
 ``` r
 library(pkgDemo)
